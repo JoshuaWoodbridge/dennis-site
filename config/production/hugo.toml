@@ -1,1 +1,4 @@
 baseurl = "/dennis-site/"
+
+[languages.en.params.logo]
+logoHomeLink = "/dennis-site/"

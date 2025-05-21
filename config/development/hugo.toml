@@ -1,1 +1,4 @@
 baseurl = "/"
+
+[languages.en.params.logo]
+logoHomeLink  = "/"

@@ -92,7 +92,6 @@ words = "words"
 
 [languages.en.params.logo]
 logoText = "Dennis' Projects"
-logoHomeLink = "/"
 
 [languages.en.menu]
 [[languages.en.menu.main]]
