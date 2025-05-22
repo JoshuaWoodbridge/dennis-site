@@ -48,9 +48,7 @@ This is where Zombie’s are at their best, I think. Zombies should be seen as a
 So, I think the appeal of Zombies is heavily dependent on the author, even more so than other fantasy monsters. I remember someone brought up how Vampires are essentially a shoot off of Zombies and I think that comes into it. Zombies are a really simple concept:
 
 1.      They must be dead
-
 2.      They must be capable of movement
-
 3.      They must be able to reproduction
 
 This means that all the best versions of Zombies I can think of are completely different from one another, because authors can write whatever they want onto Zombies and have it stick. See the following list for some examples:
