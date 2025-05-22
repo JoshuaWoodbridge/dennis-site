@@ -1,6 +1,6 @@
 +++
 title = "Project 1: Setting up the website"
-date = "2025-05-21"
+date = "22/05/2025"
 author = "Dennis"
 description = "Getting the site up to date on previously completed projects"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "If There Were No Stars"
-date = "2025-03-25"
+date = "25/03/2025"
 author = "Dennis"
 description = "One Shot - This is supposed to happen about halfway through a larger project I’ve been working on. Came up with the idea for this scene after some images Svenja posted here so thank you Svenja :pray: Anyway, hf."
 +++

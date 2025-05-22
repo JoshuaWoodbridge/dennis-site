@@ -1,6 +1,6 @@
 +++
 title = "All Alone At The End"
-date = "2025-02-04"
+date = "04/02/2025"
 author = "Dennis"
 description = "Poem"
 +++

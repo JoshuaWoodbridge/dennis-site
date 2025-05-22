@@ -1,6 +1,6 @@
 +++
 title = "Wetherspoons"
-date = "2025-05-16"
+date = "16/05/2025"
 author = "Dennis"
 description = "Poem"
 +++

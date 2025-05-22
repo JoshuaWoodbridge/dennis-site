@@ -1,6 +1,6 @@
 +++
 title = "Skulduggery Pleasant and Failed Promises"
-date = "2025-05-14"
+date = "14/05/2025"
 author = "Dennis"
 description = "Essay"
 +++

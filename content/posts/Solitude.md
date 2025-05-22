@@ -1,6 +1,6 @@
 +++
 title = "Solitude, Death's Neighbour"
-date = "2025-04-12"
+date = "12/04/2025"
 author = "Dennis"
 description = "One Shot"
 +++

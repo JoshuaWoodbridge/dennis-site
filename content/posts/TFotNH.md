@@ -1,6 +1,6 @@
 +++
 title = "The Fall of the Northern Hills"
-date = "2025-05-22"
+date = "22/05/2025"
 author = "Dennis"
 description = "One Shot - One arc of a larger project I worked on a long time ago. I've stripped it of the unnecessary stuff and prettified it a bit, I think it's not too bad for a pre-college project"
 +++
