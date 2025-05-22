@@ -2,7 +2,7 @@
 title = "Skulduggery Pleasant and Failed Promises"
 date = "2025-05-14"
 author = "Dennis"
-description = "Essay"
+tags = ["Essay"]
 +++
 
 ### Valkyrie & Skulduggery

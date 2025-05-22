@@ -2,6 +2,7 @@
 title = "Project 1: Setting up the website"
 date = "2025-05-22"
 author = "Dennis"
+tags = ["Other"]
 description = "Getting the site up to date on previously completed projects"
 +++
 

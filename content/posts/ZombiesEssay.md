@@ -2,7 +2,7 @@
 title = "Zombies are so fucking cool man, you just don't get it"
 date = "2025-02-05"
 author = "Dennis"
-description = "Essay"
+tags = ["Essay"]
 +++
 
 Minor spoilers ahead for: The Walking Dead, The Stuff, I Am Legend, One Punch Man

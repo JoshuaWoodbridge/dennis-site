@@ -2,7 +2,7 @@
 title = "Wetherspoons"
 date = "2025-05-16"
 author = "Dennis"
-description = "Poem"
+tags = ["Poem"]
 +++
 
 Here, in Wetherspoons,

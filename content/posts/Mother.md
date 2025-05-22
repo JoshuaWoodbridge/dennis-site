@@ -2,7 +2,7 @@
 title = "Mother"
 date = "2024-07-09"
 author = "Josh"
-description = "One Shot"
+tags = ["One-Shot"]
 +++
 
 "In 20 days, my mum dies in an accident on her way home from work. She finishes work at 4 so chances are I'll be in a lecture or doing homework when it happens. My dad would rush home from work when he's called but he works nearly an hour away, by the time he arrives mum might already be dead or at least very close to death. The hospital would do anything they could to help her but eventually she'll succumb to her injuries and my dad will watch her die and he'd cry. He won't tell my brothers until after she's dead and my gran and grandad can't travel so he and my uncle will likely be the only people there to watch her die.

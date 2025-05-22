@@ -2,7 +2,8 @@
 title = "If There Were No Stars"
 date = "2025-03-25"
 author = "Dennis"
-description = "One Shot - This is supposed to happen about halfway through a larger project I’ve been working on. Came up with the idea for this scene after some images Svenja posted here so thank you Svenja :pray: Anyway, hf."
+tags = ["One-Shot"]
+description = "This is supposed to happen about halfway through a larger project I’ve been working on. Came up with the idea for this scene after some images Svenja posted here so thank you Svenja :pray: Anyway, hf."
 +++
 
 The phone grew heavy in his hand, threatening to drop from his grip, from the cliff, into that endless expanse below. He couldn’t even see the floor from here; no matter where he looked, it was all the same murky black abyss. At least if he looked up there were stars, dots of light, of something piercing through all of that nothing. Down there… It was just empty.

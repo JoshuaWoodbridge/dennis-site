@@ -2,7 +2,7 @@
 title = "Solitude, Death's Neighbour"
 date = "2025-04-12"
 author = "Dennis"
-description = "One Shot"
+tags = ["One-Shot"]
 +++
 
 A bar this time, old-fashioned but still younger than the man sat at it. He must’ve been getting into his 60’s now, patches of grey hair hung desperately from his loosening skin. There was a drink in his hand, but Adam didn’t know enough about alcohol to identify it. The man called him over, the wave of his hand causing his overcoat to ruffle slightly, the only noise in what should’ve been an active bar. 

@@ -2,7 +2,7 @@
 title = "An Endless Jigsaw"
 date = "2025-02-04"
 author = "Dennis"
-description = "Poem"
+tags = ["Poem"]
 +++
 
 He lays himself out on the kitchen floor,
