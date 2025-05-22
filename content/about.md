@@ -30,14 +30,9 @@ Other - This will be anything not encapsulated in the above tags, for example, a
 
 ### Current projects
 
-This website
-
-A TTRPG system based on Hunter x Hunter
-
-Two chapters of a story
-
-Art for a logo for my father's business idea
-
-A large drawing which I'm hoping will become my first large tattoo once finished
-
-Cookbook
+1. This website
+2. A TTRPG system based on Hunter x Hunter
+3. Two chapters of a story
+4. Art for a logo for my father's business idea
+5. A large drawing which I'm hoping will become my first large tattoo once finished
+6. Cookbook
