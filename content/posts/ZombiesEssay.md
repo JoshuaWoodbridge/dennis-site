@@ -1,6 +1,6 @@
 +++
 title = "Zombies are so fucking cool man, you just don't get it"
-date = "05/02/2025"
+date = "2025-02-05"
 author = "Dennis"
 description = "Essay"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "An Endless Jigsaw"
-date = "04/02/2025"
+date = "2025-02-04"
 author = "Dennis"
 description = "Poem"
 +++

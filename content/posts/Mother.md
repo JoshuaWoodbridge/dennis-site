@@ -1,6 +1,6 @@
 +++
 title = "Mother"
-date = "09/07/2024"
+date = "2024-07-09"
 author = "Josh"
 description = "One Shot"
 +++
