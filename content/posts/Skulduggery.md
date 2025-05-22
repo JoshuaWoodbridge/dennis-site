@@ -12,8 +12,11 @@ I’d like to start this review with a brief discussion of the main two characte
 Valkyrie is likely the most consistent main character throughout the series (as long as you separate her from her two alter egos, Stephanie and Darquesse), she’s:
 
 ●	Self absorbed
+
 ●	Hypocritical
+
 ●	Obsessed with Skulduggery
+
 ●	And she never thinks too far ahead
 
 That said, she understands good and evil enough to, on a scale larger than her personal life, choose the correct side. This dynamic results in LITERALLY all of the most interesting moments of the Skulduggery series. The contradiction between her own ego and the need to stop Argeddion in Book 7 (before they ruined Argeddion’s character, discussed later) is the reason I think book 7 is the best installment in the series to this point. Everything Valkyrie does throughout the series makes sense given her situation as she grows more and more full of herself the more times she saves the world. Similarly, the drama that results from her realisation that she is Darquesse (the one prophesied to destroy the world) and the subsequent actions she takes as well as her talks with Skulduggery are my favourite moments in the series. Derek Landy portrays her fear, her weakness and her self-hatred in the face of realising the flaws in her self image amazingly.
@@ -60,7 +63,9 @@ Finally, in the last book, there’s a plot point that requires “a soul, freel
 The Black Cleaver dies in a fight with Tanith (see Sanguine & Tanith) in the final book, 6 years after he nearly killed her in their first fight. It’s supposed to be poetic that her final act in the series is to beat the first enemy that ever beat her but it’s undermined by the stupidity of the encounter. Three things are necessary for Tanith’s win and they are all remarkably silly:
 
 ●	Cutting off the head of a Zombie kills them. This is supposedly true despite the most notable Zombie in the series, Vaurien Scapegrace, having spent MULTIPLE BOOKS alive as just a head.
+
 ●	Cleavers have a tradition of fighting in a ring naked to test their strength against one another. This is never mentioned prior to book 9 and is one of like three things we actually know about Cleavers. It is CLEARLY introduced exclusively as a way to get the Black Cleaver out of his defensive clothing and thus give Tanith a fighting chance.
+
 ●	The Black Cleaver still follows Cleaver rules despite being loyal to a Necromancer. This is never foreshadowed nor even hinted at, the Black Cleaver has attacked the Sanctuary (the place the Cleavers are supposed to defend) MULTIPLE TIMES, there was no reason for Tanith to believe this was the case because it literally isn’t the case. And yet the Black Cleaver follows the rules of Cleaver combat whilst in the ring.
 
 The Black Cleaver also spends months working for the leader of the Sanctuary at one point even though his loyalty is supposed to be exclusively to Necromancers for seemingly no reason, even when there was a Necromancer around that could’ve taken control of him at any point. There are a number of other such inconsistencies with this character which I won’t mention as listing every inconsistency with every long standing character would be a very long task.
@@ -84,6 +89,7 @@ Throughout the entire 9th book Darquesse is treated as a giga ultimate threat th
 They reveal MULTIPLE macguffins in book 9 that were previously unheard of throughout the series to beat her and each one fails because of mistakes Valkyrie makes. The most powerful weapon in the series can’t be used because Stephanie misplaced it. Darquesse gets two immense power ups in book 9 because:
 
 ●	The heroes forgot to guard the one guy in the series that is stronger than her
+
 ●	The Remnants (like ghosts, they possess people) all decided it’s a good idea to all rush into her mouth to try to possess her AFTER she has shown multiple times she’s able to eat Remnants and get a power boost from it
 
 This results in a book 9 that feels not like our heroes are failing against an overwhelmingly powerful enemy but like our heroes are incapable of making a good decision and are allowing Darquesse to become the threat she was prophesied to be.
@@ -115,6 +121,7 @@ I’m more at issue with the progress we see in book 4 Skullduggery. In book 4, 
 Mediums are used many many times over the course of the series to predict the future and this is the part of Skulduggery that I dislike the most. Every single prophecy made during Skulduggery is so wildly wrong, so completely off base that not a single thing ever stated in them comes true (except for the final prophecy). Derek Landy explains many times throughout the series that “knowing the future changes the future” and I agree with that but he uses this excuse to: 
 
 ●	Point at futures that could never possibly happen and,
+
 ●	Cover up mistakes in previous prophecies by introducing new prophecies that account for factors that the viewer didn’t know at the time of the last prophecy but that were very much still in play
 
 This reduces prophecies from “actual future sight that gives an indication of where the world is heading” to “a plot device used to point out who the current big bad is supposed to be”. The prophecies throughout the series serve as a constant reminder that magic doesn’t serve an actual narrative purpose other than making sure what Derek Landy wants to happen happens (see how every time a sorcerer fights a non sorcerer, they seem to forget they can literally just cast magic or how Darquesse doesn’t just turn everyone to dust even though she literally shows she can do that several times throughout the series). This is increasingly frustrating the further on the series goes as the false prophecies pile up.
@@ -122,9 +129,13 @@ This reduces prophecies from “actual future sight that gives an indication of 
 Despite this, throughout the entire series, everytime a prophecy occurs, characters take it completely seriously, going so far as to remove weapons that would provide them an edge in combat because “they wore it in the prophecy”. On multiple occasions, this leads to losses on the side of our heroes that were entirely avoidable including, in the final book, the following sequence of events:
 
 ●	Valkyrie sees in a prophecy that she is wearing a glove during the final fight with Darquesse
+
 ●	Valkyrie is given the glove and finds out it’s ability instantly kills anyone she touches whilst wearing it
+
 ●	Valkyrie chooses NOT to wear the glove because she loses against Darquesse whilst wearing it in the prophecy
+
 ●	Valkyrie FISTFIGHTS Darquesse and loses after landing what would have been an uncountable number of killing blows were she wearing the fucking glove
+
 ●	They then also trap Darquesse in a dream state where she can’t move her actual body and send her to another dimension rather than using the fucking glove on the defenceless sociopath
 
 This is immensely unsatisfying. Derek Landy clearly wrote himself into a corner and, instead of revising his work even once, sent out a first draft with comically large plot holes.
@@ -134,7 +145,9 @@ This is immensely unsatisfying. Derek Landy clearly wrote himself into a corner 
 Names are a very important thing in Skulduggery Pleasant and this is outlined very early on. Each person has three names, as described below:
 
 ●	Given name: The name your parents give you at birth. Prior to choosing a name, any sorcerer, no matter their discipline, can use this name to control your every action
+
 ●	Chosen name: A name you yourself choose to protect your given name
+
 ●	True name: A name that describes your true self, this isn’t chosen by anyone but is intrinsic to your very being. Finding out your true name is borderline impossible for most people. Finding out your true name allows you access to an immense amount of power but if anyone else finds out your true name they can control you completely even if you have chosen a name.
 
 It should also be noted that you can protect your true name from misuse through carving 3 symbols on your heart (this isn’t really explained but it relates to a gripe I have later).
@@ -170,6 +183,7 @@ When Skullduggery is trapped in the Faceless One’s dimension at the end of boo
 Shunting is introduced in book 7 as a way for Argeddion to gain a second version of himself to perform immensely powerful magic. Essentially, Shunters can lock onto a frequency for another universe and move to it, bringing people and things with them. The great majority of universes function completely differently to ours and thus can support human life but we learn of two universes in the series that are suitably similar to earth. 
 
 ●	The first is simply used to transport a massive sculpture created in another universe into ours for a grand reveal. This is a massive waste of a universe
+
 ●	The second is a universe in which wizard Hitler (Mevolent) won his war 400 years ago and now rules the world. 
 
 This second universe is visited multiple times in the series, usually to bring back a macguffin that either hasn’t been invented in our current universe or that was destroyed previously but needs bringing back. Derek Landy teases a universe v universe war a few times but never follows through on it and I find this immensely unsatisfying. In this other universe there is a Skulduggery that never came back from his time as Lord Vile, there is an enemy that many of the characters in the series fought against 400 years ago (Mevolent, one of few people able to stand toe to toe to Darquesse at the end of the series), there are previous final bosses of novels that are never properly re-explored in this new context. There is so much, you could write an entire series just about the interactions that could happen between these two universes but it routinely gets completely forgotten about until our heroes need something from there and then we get treated to a short excursion without any actual resolution for the characters involved. 
