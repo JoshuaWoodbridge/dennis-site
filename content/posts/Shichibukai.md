@@ -5,4 +5,4 @@ author = "Dennis"
 tags = ["Art"]
 +++
 
-![Shichibukai](C:\Users\s2003\OneDrive\Desktop\Photos\Achievements\Art\Shichibukai)
+![Shichibukai](C:\Users\s2003\OneDrive\Desktop\Photos\Achievements\Art\Shichibukai.jpg)
