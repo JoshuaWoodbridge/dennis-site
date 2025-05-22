@@ -7,7 +7,3 @@ description = "Two drawings I made for a tattoo me and a mate got together"
 +++
 
 ![Hollow Knight Tattoo](/HK.jpg)
-
-<p>
-    <img src="/HK.jpg"/>
-</p>
