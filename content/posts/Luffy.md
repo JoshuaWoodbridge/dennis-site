@@ -5,4 +5,4 @@ author = "Dennis"
 tags = ["Art"]
 +++
 
-![Luffy](/images/Luffy.jpg)
+![Luffy](static\Luffy.jpg)
