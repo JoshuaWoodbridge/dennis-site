@@ -5,4 +5,4 @@ author = "Dennis"
 tags = ["Art"]
 +++
 
-![Shichibukai](/Shichibukai.jpg)
+![Shichibukai](Shichibukai.jpg)
