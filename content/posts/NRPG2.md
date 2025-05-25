@@ -6,6 +6,9 @@ tags = ["Other"]
 description = "This is a draft of a ttrpg system I'm creating with the help of BAMS and tabletop based on HxH and Nen"
 +++
 
+## Problems with post - to be fixed
+* Not recognising splits between paragraphs / bullet points
+
 ## Mission Statement
 
 The goal of this document is to create a system for a Hunter x Hunter (here on referred to as hxh) based TTRPG. It will need to outline rules for:
@@ -240,42 +243,14 @@ A cost any greater than 5 NP, whilst possible, would likely be unsustainable in 
 
 When creating Nen abilities then, we can use this table to outline what types of abilities are available to the character. Let us look at a Transmuter for example: 
 
-|Nen curve|
-|Level|Type, Multiplier & NAP/NP Cost|
-|	ENH	TRA	CON	SPE	MAN	EMI
-|	1.5	1	1.5	Inf	2.5	2
-|1	2	1	2	#######	3	2
-|2	3	2	3	#######	5	4
-|3	5	3	5	#######	8	6
-|4	6	4	6	#######	10	8
-|5	8	5	8	#######	13	10
-
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
+|Level|ENH|TRA|CON|SPE|MAN|EMI|
+|-----|---|---|---|---|---|---|
+|     |1.5|1  |1.5|Inf|2.5|2  | Multiplier
+|1	  |2  |1  |2  |   |3  |2  |
+|2	  |3  |2  |3  |   |5  |4  |
+|3	  |5  |3  |5  |   |8  |6  |
+|4	  |6  |4  |6  |   |10 |8  |
+|5	  |8  |5  |8  |   |13 |10 |
 
 Note: Specialist abilities can only be learnt by Specialists but otherwise the level of abilities that can be learnt decreases linearly the further you get from the Nen user’s specialty.
 
@@ -705,13 +680,14 @@ This answers questions 3 and 4.
 
 To answer questions 1 and 2, we’ll have to benchmark the difficulty of certain tasks which GMs can use as a basis for decisions in combat. See the following table:
 
-Roll	Challenge	Example
-1-4	Easy	Spreading caltrops
-5-8	Normal	Tipping a table
-9-12	Hard	Throwing a small sofa
-13-16	Expert	Breaking through a section of a supporting wall
-16-20	Incredible	Stopping a car
-21-24	Impossible	Bringing down a house
+|Roll |Challenge |Example                                        |
+|-----|----------|-----------------------------------------------|
+|1-4  |Easy	     |Spreading caltrops                             |
+|5-8  |Normal    |Tipping a table                                |
+|9-12 |Hard	     |Throwing a small sofa                          |
+|13-16|Expert	 |Breaking through a section of a supporting wall|
+|16-20|Incredible|Stopping a car                                 |
+|21-24|Impossible|Bringing down a house                          |
 
 ##### Non-Lethal combat
 
@@ -963,38 +939,28 @@ All light melee weapons will use Dexterity.
     </tbody>
 </table>
 
-	Melee	Ranged
-Light	Dexterity
-1 EP cost
-1d6
-Touching range	Dexterity / Perception
-1 EP cost
-1d6
-
-Heavy	Strength
-2d6 
-2 EP cost
-Touching range	Strength / Perception
-2d6
-2 EP cost
-V. heavy	Strength
-3d6
-3 EP cost
-Strength restriction: 4 
-TR + 5 ft	Strength / Perception
-3d6
-3 EP cost
-Strength restriction: 4 
-
-E. heavy	Strength
-4d6
-4 EP cost
-Strength restriction: 6 
-TR + 10 ft	Strength / Perception
-4d6
-4 EP cost
-Strength restriction: 6 
-
+|        |Melee                  |Ranged                 |
+|--------|-----------------------|-----------------------|
+|Light   |Dexterity              |Dexterity / Perception |
+|        |1 EP cost              |1 EP cost              |
+|        |1d6                    |1d6                    |
+|        |Touching range         |                       |
+|        |                       |                       |
+|Heavy   |Strength               |Strength / Perception  |
+|        |2 EP cost              |2 EP cost              |
+|        |2d6                    |2d6                    |
+|        |Touching range         |                       |
+|        |                       |                       |
+|V. heavy|Strength               |Strength / Perception  |
+|        |3 EP cost              |3 EP cost              |
+|        |3d6                    |3d6                    |
+|        |Strength restriction: 4|Strength restriction: 4|
+|        |TR + 5                 |                       |
+|E. heavy|Strength               |Strength / Perception  |
+|        |4d6                    |4d6                    |
+|        |4 EP cost              |4 EP cost              |
+|        |Strength restriction: 6|Strength restriction: 6|
+|        |TR + 10 ft	         |                       |
 
 Range on ranged weapons heavily depends upon the weapon and will be decided case by case.
 
