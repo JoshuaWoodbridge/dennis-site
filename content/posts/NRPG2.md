@@ -2,7 +2,7 @@
 title = "NRPG v2.0"
 date = "2025-05-25"
 author = "Dennis"
-tags = ["Other"]
+tags = ["Games"]
 description = "This is a draft of a ttrpg system I'm creating with the help of BAMS and tabletop based on HxH and Nen"
 +++
 
