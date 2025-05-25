@@ -13,7 +13,7 @@ He looks different each time,
 
 How different is he really?
 
-
+ 
 
 There’s pieces missing he realises, 
 
@@ -23,7 +23,7 @@ What could he be missing,
 
 What did he choose to kill?
 
-
+ 
 
 He seems so much bigger now, 
 
@@ -33,7 +33,7 @@ Where did the new ones come from,
 
 Was he really ever that small?
 
-
+ 
 
 Day upon day, year upon year,
 

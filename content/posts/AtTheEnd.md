@@ -15,7 +15,7 @@ Why is nobody there,
 
 But you?
 
-
+ 
 
 You’re looking behind you now, 
 
@@ -25,7 +25,7 @@ If only you could’ve been not you,
 
 But if “not you”, then who?
 
-
+ 
 
 You’re looking at yourself now, 
 
@@ -37,7 +37,7 @@ What use is,
 
 He?
 
-
+ 
 
 You’re looking at your friends now 
 
@@ -47,13 +47,13 @@ I wonder how can you believe that?
 
 **Do** you, believe that?
 
-
+ 
 
 Or are you just so wrapped up in yourself, 
 
 You’re too blind to truly see anybody else?
 
-
+ 
 
 So you never have a thought for **now**, 
 
