@@ -5,35 +5,64 @@ author = "Dennis"
 tags = ["Poem"]
 +++
 
-You’re looking at the end now, <br>
-And it’s still so far away. <br>
-But it always looks so lonely there, <br>
-Why is nobody there, <br>
+You’re looking at the end now, 
+
+And it’s still so far away. 
+
+But it always looks so lonely there, 
+
+Why is nobody there, 
+
 But you?
 
-You’re looking behind you now, <br>
-At things you can never change. <br>
-If only you could’ve been not you, <br>
+
+
+You’re looking behind you now, 
+
+At things you can never change. 
+
+If only you could’ve been not you, 
+
 But if “not you”, then who?
 
-You’re looking at yourself now, <br>
-The one who’s never good enough, <br>
-The one with the excuses. <br>
-What use is, <br>
+
+
+You’re looking at yourself now, 
+
+The one who’s never good enough, 
+
+The one with the excuses. 
+
+What use is, 
+
 He?
 
-You’re looking at your friends now <br>
-No flaws or struggles of their own. <br>
-I wonder how can you believe that? <br>
+
+
+You’re looking at your friends now 
+
+No flaws or struggles of their own. 
+
+I wonder how can you believe that? 
+
 **Do** you, believe that?
 
-Or are you just so wrapped up in yourself, <br>
+
+
+Or are you just so wrapped up in yourself, 
+
 You’re too blind to truly see anybody else?
 
-So you never have a thought for **now**, <br>
-Never a thought for **how**, <br>
-Those people experience things, <br>
+
+
+So you never have a thought for **now**, 
+
+Never a thought for **how**, 
+
+Those people experience things, 
+
 Besides you.
 
-Because it’s only you that **you** see, <br>
+Because it’s only you that **you** see, 
+
 At the end.
