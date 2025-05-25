@@ -13,19 +13,19 @@ Major spoilers ahead for: The Night of the Living Dead
 
  ## Structure
 
-·       Zombies in myth
+* Zombies in myth
 
-·       The Night of the Living Dead
+* The Night of the Living Dead
 
-·       Modern Zombie media
+* Modern Zombie media
 
-·       My issues with modern Zombies
+* My issues with modern Zombies
 
-·       The Bite
+* The Bite
 
-·       Plato’s Ideal Zombie Story
+* Plato’s Ideal Zombie Story
 
-·       Summary
+* Summary
 
 ## Zombies in myth
 
@@ -53,13 +53,13 @@ So, I think the appeal of Zombies is heavily dependent on the author, even more 
 
 This means that all the best versions of Zombies I can think of are completely different from one another, because authors can write whatever they want onto Zombies and have it stick. See the following list for some examples:
 
-·       The Walking Dead: Zombies as a mass of flesh. These zombies have some restrictions like reduced thought and movement and are generally easy kills on their own. They’re only scary because they move in groups, and because they’re relentless pursuers. Zombification is spread through contact, typically biting (I think The Blob also fits into this Zombie archetype but recognise that might be contentious)
+* The Walking Dead: Zombies as a mass of flesh. These zombies have some restrictions like reduced thought and movement and are generally easy kills on their own. They’re only scary because they move in groups, and because they’re relentless pursuers. Zombification is spread through contact, typically biting (I think The Blob also fits into this Zombie archetype but recognise that might be contentious)
 
-·       The Stuff: Zombies as capitalism. Humans who have eaten too much of The Stuff become Zombies essentially controlled by The Stuff to mass produce and sell more to create more Zombies. This kind of Zombie is used to critique capitalism and it’s *very* effective in doing so even though it has nothing to do with our usual understanding of Zombies. They’re completely conscious, even manipulative when necessary (Zom 100 also uses Zombies like this though it’s Zombies are much closer to the Walking Dead Zombie which I found interesting)
+* The Stuff: Zombies as capitalism. Humans who have eaten too much of The Stuff become Zombies essentially controlled by The Stuff to mass produce and sell more to create more Zombies. This kind of Zombie is used to critique capitalism and it’s *very* effective in doing so even though it has nothing to do with our usual understanding of Zombies. They’re completely conscious, even manipulative when necessary (Zom 100 also uses Zombies like this though it’s Zombies are much closer to the Walking Dead Zombie which I found interesting)
 
-·       I Am Legend (movie): Zombies as victims of prejudice. Here Zombies are used primarily as a character-building tool for our main character, through his prejudice brought about by the deaths of his loved ones, he completely overlooks the fact that the Zombies are conscious living beings and justifies a lot of grim acts against them. The Zombies here are primarily a plot point to force him to confront and overcome his actions and biases. They retain their ‘mass of flesh/work of nature status’ by being the embodiment of the main characters fear, even when that fear is misplaced
+* I Am Legend (movie): Zombies as victims of prejudice. Here Zombies are used primarily as a character-building tool for our main character, through his prejudice brought about by the deaths of his loved ones, he completely overlooks the fact that the Zombies are conscious living beings and justifies a lot of grim acts against them. The Zombies here are primarily a plot point to force him to confront and overcome his actions and biases. They retain their ‘mass of flesh/work of nature status’ by being the embodiment of the main characters fear, even when that fear is misplaced
 
-·       One Punch Man: Zombies as unkillable. One completely twists Zombies on their head by making a single cool guy who just cannot be killed no matter what happens to his body. I think out of the examples listed this is the least Zombie-like Zombie, to the point that he really doesn’t fit the archetype much at all but he’s a very fun character (we don’t know if he can produce more Zombies, so he arguably does even fit the definition I laid out)
+* One Punch Man: Zombies as unkillable. One completely twists Zombies on their head by making a single cool guy who just cannot be killed no matter what happens to his body. I think out of the examples listed this is the least Zombie-like Zombie, to the point that he really doesn’t fit the archetype much at all but he’s a very fun character (we don’t know if he can produce more Zombies, so he arguably does even fit the definition I laid out)
 
 ## My issues with modern Zombies
 
