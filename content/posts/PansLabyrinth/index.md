@@ -5,3 +5,5 @@ author = "Dennis"
 tags = ["Art"]
 +++
 
+![PanPipes](PanPipes.jpg)
+![PanPipesColoured](PanPipesColoured.jpg)
